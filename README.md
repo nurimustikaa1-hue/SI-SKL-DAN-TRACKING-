@@ -530,9 +530,9 @@ Proyek ini dilisensikan di bawah **MIT License**. Lihat file [LICENSE](LICENSE) 
 
 ##  Kontak
 
-**Developer:** muadzie
+**Developer:** Raka Afriza
 
-**Repository:** [https://github.com/muadzie/WEB-TRACKING-STUDY](https://github.com/muadzie/WEB-TRACKING-STUDY)
+**Repository:** https://github.com/rakaafriza48-hue/SI-SKL-DAN-TRACKING-
 
 **Organisasi:** SMA PGRI 1 Subang
 
