@@ -53,11 +53,11 @@ Sistem ini menyediakan platform yang terintegrasi untuk:
 - **Cek Kelulusan Online** - Siswa dapat mengecek status kelulusan mereka menggunakan NISN (Nomor Induk Siswa Nasional)
 - **Cetak Surat Keterangan Lulus (SKL)** - Generate dan cetak sertifikat kelulusan dengan format resmi
 - **Tracking Alumni** - Memantau perkembangan alumni setelah lulus (bekerja, kuliah, wirausaha, dll)
-- **Tracer Study** - Survei komprehensif untuk mengumpulkan data追踪 alumni pasca kelulusan
+- **Tracer Study** - Survei komprehensif untuk mengumpulkan data alumni pasca kelulusan
 - **Dashboard Administratif** - Panel admin untuk mengelola seluruh data siswa, alumni, dan laporan
 - **Panel Kepala Sekolah** - Akses read-only untuk monitoring dan pengambilan keputusan
 
-Sistem ini dikembangkan sebagai proyek akademik untuk modernisasi administrasi sekolah dan meningkatkan transparansi informasi kelulusan serta memudahkan追踪 perkembangan alumni.
+Sistem ini dikembangkan sebagai proyek akademik untuk modernisasi administrasi sekolah dan meningkatkan transparansi informasi kelulusan serta memudahkan perkembangan alumni.
 
 ---
 
