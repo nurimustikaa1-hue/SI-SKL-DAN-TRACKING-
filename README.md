@@ -71,7 +71,7 @@ Sistem ini dikembangkan sebagai proyek akademik untuk modernisasi administrasi s
 | Cetak SKL | Generate surat keterangan lulus format A4 siap cetak dengan kop sekolah |
 | Tracking Alumni | Cari data alumni berdasarkan NISN dan lihat status aktivitas |
 | Update Data Alumni | Alumni dapat memperbarui data diri dan status aktivitas tanpa login |
-| Tracer Study | Formulir survei komprehensif untuk追踪 alumni pasca kelulusan |
+| Tracer Study | Formulir survei komprehensif untuk alumni pasca kelulusan |
 
 ###  Admin
 
@@ -246,7 +246,7 @@ siswa.nisn ──┬── alumni.nisn (one-to-one)
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/muadzie/WEB-TRACKING-STUDY.git
+git clone https://github.com/rakaafriza48-hue/WEB-TRACKING-STUDY.git
 cd WEB-TRACKING-STUDY
 
 # 2. Install dependencies
@@ -282,7 +282,7 @@ Akses aplikasi di: `http://localhost:8080`
 
 ```bash
 # 1. Clone ke folder www Laragon
-git clone https://github.com/muadzie/WEB-TRACKING-STUDY.git C:\laragon\www\si_skl-tracking
+git clone https://github.com/rakaafriza48-hue/WEB-TRACKING-STUDY.git C:\laragon\www\si_skl-tracking
 
 # 2. Buka terminal di folder proyek
 composer install
@@ -542,8 +542,8 @@ Proyek ini dilisensikan di bawah **MIT License**. Lihat file [LICENSE](LICENSE) 
 
 **Dibuat dengan  untuk SMA PGRI 1 Subang**
 
-[![GitHub stars](https://img.shields.io/github/stars/muadzie/WEB-TRACKING-STUDY?style=social)](https://github.com/muadzie/WEB-TRACKING-STUDY/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/muadzie/WEB-TRACKING-STUDY?style=social)](https://github.com/muadzie/WEB-TRACKING-STUDY/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/muadzie/WEB-TRACKING-STUDY?style=social)](https://github.com/muadzie/WEB-TRACKING-STUDY/issues)
+[![GitHub stars](https://img.shields.io/github/stars/rakaafriza48-hue/WEB-TRACKING-STUDY?style=social)](https://github.com/rakaafriza48-hue/WEB-TRACKING-STUDY/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/rakaafriza48-hue/WEB-TRACKING-STUDY?style=social)](https://github.com/rakaafriza48-hue/WEB-TRACKING-STUDY/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/rakaafriza48-hue/WEB-TRACKING-STUDY?style=social)](https://github.com/rakaafriza48-hue/WEB-TRACKING-STUDY/issues)
 
 </div>
